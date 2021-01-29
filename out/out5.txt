@@ -1,0 +1,22 @@
+dir1 is Directory
+atime for the  dir1 is Thu Jan 28 2021 21:06:25 GMT-0600 (Central Standard Time)
+birthtime for the  dir1 is Thu Jan 28 2021 20:35:44 GMT-0600 (Central Standard Time)
+ctime for the  dir1 is Thu Jan 28 2021 20:35:44 GMT-0600 (Central Standard Time)
+mtime for the  dir1 is Thu Jan 28 2021 20:35:44 GMT-0600 (Central Standard Time)
+file1.txt is File
+atime for the  file1.txt is Thu Jan 28 2021 20:29:27 GMT-0600 (Central Standard Time)
+birthtime for the  file1.txt is Thu Jan 28 2021 18:54:52 GMT-0600 (Central Standard Time)
+ctime for the  file1.txt is Thu Jan 28 2021 20:29:25 GMT-0600 (Central Standard Time)
+mtime for the  file1.txt is Thu Jan 28 2021 20:29:25 GMT-0600 (Central Standard Time)
+file2.txt is File
+atime for the  file2.txt is Thu Jan 28 2021 18:55:00 GMT-0600 (Central Standard Time)
+birthtime for the  file2.txt is Thu Jan 28 2021 18:55:00 GMT-0600 (Central Standard Time)
+ctime for the  file2.txt is Thu Jan 28 2021 18:55:00 GMT-0600 (Central Standard Time)
+mtime for the  file2.txt is Thu Jan 28 2021 18:55:00 GMT-0600 (Central Standard Time)
+file3.txt is File
+atime for the  file3.txt is Thu Jan 28 2021 20:35:33 GMT-0600 (Central Standard Time)
+birthtime for the  file3.txt is Thu Jan 28 2021 20:35:33 GMT-0600 (Central Standard Time)
+ctime for the  file3.txt is Thu Jan 28 2021 20:35:33 GMT-0600 (Central Standard Time)
+mtime for the  file3.txt is Thu Jan 28 2021 20:35:33 GMT-0600 (Central Standard Time)
+Done!!!
+asasasdasdasdasd
